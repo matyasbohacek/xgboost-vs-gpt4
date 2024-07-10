@@ -3,3 +3,7 @@ openai
 matplotlib
 tqdm
 scikit-learn
+python-dotenv
+transformers
+torch
+xgboost
