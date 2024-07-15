@@ -11,15 +11,26 @@ Large language models (LLMs) are increasingly used for applications beyond text 
 
 ## Getting Started
 
-TODO
+Set up a Python environment (Python 3.8 is recommended) and install the dependencies using `pip install -r requirements.txt`.
 
-## Reproducing Paper Results
+### Reproducing Paper Results
 
-TODO
+The `experiments/pipeline_extraction.py` and `experiments/gpt_extraction.py` scripts contain two different approaches to the news trusthworthiness classification task described in the paper.
 
-## Using the Methodology for Custom Projects
+To reproduce the results in our paper, download the [Verifee dataset](https://forms.gle/3HZ5fn6Mi8rQEApx9), and set up the according paths.
 
-TODO
+### Using the Methodology for Custom Projects
+
+To adapt the methodology to different tasks and datasets:
+
+- update the feature composition of the ensemble pipeline;
+- gather new feature models for the respective features;
+- and update the prompt in the GPT pipeline.
+
+To go beyond the specific ensemble and LLM architectures we chose (Electra and GPT-4, respectively):
+
+- update the Hugging Face Transformers pipeline in the ensemble pipeline;
+- update the LLM interfacing function (e.g., call a different API).
 
 ## Citation
 
