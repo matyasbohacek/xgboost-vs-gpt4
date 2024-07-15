@@ -49,3 +49,6 @@ To go beyond the specific ensemble and LLM architectures we chose (Electra and G
 }
 ```
 
+## Remarks & Updates
+
+- (**July 14, 2024**) Note that OpenAI's API changes the interfaced model regularly, and thus the precise results you will observe might, to some extent, differ from those reported in the paper. Our data was collected in August 2023.
