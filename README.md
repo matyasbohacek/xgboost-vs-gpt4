@@ -1,3 +1,6 @@
+![cover](https://github.com/user-attachments/assets/6369bf7b-3778-4cd2-8bbe-ae7de1308bf7)
+
+
 # When XGBoost Outperforms GPT-4 on Text Classification: A Case Study
 
 <p style="color:#808080;"><i>published at <a href="https://trustnlpworkshop.github.io">NAACL 2024 Workshop on Trustworthy Natural Language Processing (TrustNLP 2024)</a></i></p>
@@ -34,3 +37,4 @@ TODO
     pages = "51--60"
 }
 ```
+
