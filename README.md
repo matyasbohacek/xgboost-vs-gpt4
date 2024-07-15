@@ -5,7 +5,7 @@
 
 <p style="color:#808080;"><i>published at <a href="https://trustnlpworkshop.github.io">NAACL 2024 Workshop on Trustworthy Natural Language Processing (TrustNLP 2024)</a></i></p>
 
-[See paper](https://aclanthology.org/2024.trustnlp-1.5/) — [See poster](https://aclanthology.org/2024.trustnlp-1.5/) — [Contact us](mailto:maty-at-stanford-dot-edu)
+[See paper](https://aclanthology.org/2024.trustnlp-1.5/) — [See poster]([https://aclanthology.org/2024.trustnlp-1.5/](https://drive.google.com/file/d/1A77T_RBLkHWnpcgcAE5W6Cr3KfX705n1/view?usp=sharing)) — [Contact us](mailto:maty-at-stanford-dot-edu)
 
 Large language models (LLMs) are increasingly used for applications beyond text generation, ranging from text summarization to instruction following. One popular example of exploiting LLMs’ zero- and few-shot capabilities is the task of text classification. This short paper compares two popular LLM-based classification pipelines (GPT-4 and LLAMA 2) to a popular pre-LLM-era classification pipeline on the task of news trustworthiness classification, focusing on performance, training, and deployment requirements. We find that, in this case, the pre-LLM-era ensemble pipeline outperforms the two popular LLM pipelines while being orders of magnitude smaller in parameter size.
 
